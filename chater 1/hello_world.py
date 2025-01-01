@@ -12,7 +12,7 @@ message = "Hello python Crash Course world!"
 print(message)
 
 
-'''
+'''open
 When you are naming variables there are some rules you have to follow
 Variable names can contain only letters numbers and underscores They can start with a letter or an_but not with a number 
 for instance you can call variable message_1 but not one_message
